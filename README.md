@@ -14,8 +14,6 @@ These resources can help users understand what information their browser and net
 
 It allows users to examine characteristics of their browser and device that can contribute to browser fingerprinting, including information such as browser characteristics, operating system information, timezone, language, HTTP headers, screen properties, Canvas/WebGL information, and other browser attributes.
 
-**Website:** `amiunique.org`
-
 Useful for:
 
 * Browser fingerprint assessment
@@ -25,8 +23,9 @@ Useful for:
 * Learning about fingerprinting techniques
 * Reviewing information exposed by a browser
 
-> **Note:** AmIUnique is an independent third-party research website. It is not developed, operated, or owned by this GitHub project.
+🔗 Open AmIUnique Website
 
+Third-Party Notice: AmIUnique is an independent third-party website. It is not developed, operated, or owned by this project.
 ---
 
 ### 🌐 IP/DNS Detect — IPLeak
@@ -44,8 +43,6 @@ Its testing pages can display information relating to:
 
 The website specifically notes that websites and embedded services can see and collect certain connection and browser information.
 
-**Website:** `ipleak.net`
-
 Useful for:
 
 * IP exposure checks
@@ -55,8 +52,9 @@ Useful for:
 * Network privacy awareness
 * Browser geolocation testing
 
-> **Note:** IPLeak is an independent third-party website. It is not developed, operated, or owned by this GitHub project.
+🔗 Open IPLeak Website
 
+Third-Party Notice: IPLeak is an independent third-party website. It is not developed, operated, or owned by this project.
 ---
 
 # 🛡️ Why Use These Resources?
