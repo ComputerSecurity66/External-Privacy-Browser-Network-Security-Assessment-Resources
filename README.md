@@ -27,9 +27,6 @@ Useful for:
 
 https://amiunique.org/
 
-**Open directly:**
-https://amiunique.org/
-
 **Third-Party Notice:** AmIUnique is an independent third-party website. It is not developed, operated, or owned by this project.
 
 ---
@@ -58,9 +55,6 @@ Useful for:
 
 ### 🔗 Website
 
-https://ipleak.net/
-
-**Open directly:**
 https://ipleak.net/
 
 **Third-Party Notice:** IPLeak is an independent third-party website. It is not developed, operated, or owned by this project.
