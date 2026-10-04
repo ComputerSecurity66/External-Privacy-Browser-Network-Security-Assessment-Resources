@@ -156,18 +156,6 @@ Do not submit confidential information, private documents, credentials, authenti
 
 ---
 
-# 📚 External Resources
-
-**AmIUnique**
-
-https://amiunique.org/
-
-**IPLeak**
-
-https://ipleak.net/
-
----
-
 ## 🔒 Copyright
 
 Copyright © 2026 VALOR. All Rights Reserved.
