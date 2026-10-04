@@ -23,9 +23,15 @@ Useful for:
 * Learning about fingerprinting techniques
 * Reviewing information exposed by a browser
 
-🔗 Open AmIUnique Website
+### 🔗 Website
 
-Third-Party Notice: AmIUnique is an independent third-party website. It is not developed, operated, or owned by this project.
+https://amiunique.org/
+
+**Open directly:**
+https://amiunique.org/
+
+**Third-Party Notice:** AmIUnique is an independent third-party website. It is not developed, operated, or owned by this project.
+
 ---
 
 ### 🌐 IP/DNS Detect — IPLeak
@@ -41,8 +47,6 @@ Its testing pages can display information relating to:
 * Browser-based geolocation
 * Other browser/network information
 
-The website specifically notes that websites and embedded services can see and collect certain connection and browser information.
-
 Useful for:
 
 * IP exposure checks
@@ -52,9 +56,15 @@ Useful for:
 * Network privacy awareness
 * Browser geolocation testing
 
-🔗 Open IPLeak Website
+### 🔗 Website
 
-Third-Party Notice: IPLeak is an independent third-party website. It is not developed, operated, or owned by this project.
+https://ipleak.net/
+
+**Open directly:**
+https://ipleak.net/
+
+**Third-Party Notice:** IPLeak is an independent third-party website. It is not developed, operated, or owned by this project.
+
 ---
 
 # 🛡️ Why Use These Resources?
@@ -85,8 +95,6 @@ Browser
 ---
 
 # 🔍 Suggested Privacy Check
-
-Before performing a privacy assessment, review:
 
 ### Browser Fingerprinting
 
@@ -157,10 +165,12 @@ Do not submit confidential information, private documents, credentials, authenti
 # 📚 External Resources
 
 **AmIUnique**
-Browser fingerprinting and privacy-awareness resource.
+
+https://amiunique.org/
 
 **IPLeak**
-IP, DNS, WebRTC, torrent-address, and browser privacy testing resource.
+
+https://ipleak.net/
 
 ---
 
